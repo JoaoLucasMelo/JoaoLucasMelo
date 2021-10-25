@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**JoaoLucasMelo/JoaoLucasMelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Joao Lucas Melo (John Melo) from Brazil and now a Boise Idaho resident.
 
-Here are some ideas to get you started:
+🌱 - Currently a student at Boise Code Works and very excited to become Software Developer that is a field that combine things that I love doing on my extra time such as exercising creative and artistic projects and working with computers, software or even hardware related.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+About Me:
+
+🎬 - Love to binge watch good series, watch and re-watch good movies sush as The Lord of the Rings and Star Wars.
+🎮 - Fan of video-games like RPGs ans even some E-Spports games.
+🎲 - Enjoy a good family and friends time playing board games.
+
+
+
