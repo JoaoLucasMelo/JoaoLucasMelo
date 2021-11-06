@@ -8,7 +8,7 @@ I am Joao Lucas Melo (John Melo) from Brazil and now a Boise Idaho resident.
 About Me:
 
 🎬 - Love to binge watch good series, watch and re-watch good movies sush as The Lord of the Rings and Star Wars. <br>
-🎮 - Fan of video-games like RPGs and even some E-Spports games. <br>
+🎮 - Fan of video-games like RPGs and even some E-Sports games. <br>
 🎲 - Enjoy a good family and friends time playing board games. <br>
 
 
