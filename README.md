@@ -13,5 +13,5 @@ About Me:
 
 ### Feel free to check out my Landing Page:
 
-johnmelodev.com
+[Check It Out!](https://johnmelodev.com/#/)
 
