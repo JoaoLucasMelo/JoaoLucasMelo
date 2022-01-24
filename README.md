@@ -2,7 +2,7 @@
 
 I am Joao Lucas Melo (John Melo) from Brazil and now a Boise Idaho resident.
 
-🌱 - Currently a student at Boise Code Works and very excited to become Software Developer that is a field that combine things that I love doing on my extra time such as exercising creative and artistic projects and working with computers, software or even hardware related.
+✅ - Graduated form Boise CodeWorks on early 2022 and I am very excited to start my career as a Software Developer that is something that combine things that I love doing on my extra time such as exercising creative and artistic projects and working with computers, software or even hardware related.
 
 
 About Me:
