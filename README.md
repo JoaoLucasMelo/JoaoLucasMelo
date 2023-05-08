@@ -11,7 +11,4 @@ About Me:
 🎮 - Fan of video-games like RPGs and even some E-Sports games. <br>
 🎲 - Enjoy a good family and friends time playing board games. <br>
 
-### Feel free to check out my Landing Page:
-
-[Check It Out!](https://johnmelodev.com/#/)
 
