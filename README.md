@@ -15,7 +15,7 @@ Full stack software engineer at **[In Time Tec](https://www.intimetec.com/)** in
 **Vivara** is my own product, built solo from end to end.
 
 - **Vivara Fitness & Nutrition app** (iOS + Android): hydration, fitness, and nutrition tracking, including NFC tap-to-log hydration
-- **Vivara accessory ecosystem:** a modular, belt-mounted system for Owala water bottles. Designed in Fusion 360 and Blender
+- **Vivara accessory ecosystem:** a modular, belt-mounted phone holder system for Owala water bottles with NFC water tracking. Designed in Fusion 360 and Blender
 - CAD work is partly scripted straight from Claude through MCP integrations
 
 <!-- Add links when ready -->
